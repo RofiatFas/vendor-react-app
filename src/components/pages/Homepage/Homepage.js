@@ -118,26 +118,26 @@ function Homepage(){
           <div class="container mx-3 my-2">
             <h5 class="mt-2">Supplier Compliance Stats</h5>
             <div class="row justify-content-between p-2 gx-2">
-              <div class="col-12 col-sm-12 col-md-12 col-lg-2 chartbox my-2 my-lg-0" style={{marginLeft: '-50px'}}>
+              <div class="col-12 col-sm-12 col-md-6 col-lg-2 chartbox my-2 my-lg-0" style={{marginLeft: '-50px'}}>
                 <Donut1/>
                 {/* <canvas class="chartDoughnut" id="myChart" width="400" height="500"></canvas> */}
               </div>
       
-              <div class="col-12 col-sm-12 col-md-12 col-lg-2 chartbox my-2 my-lg-0" style={{marginLeft: '-50px'}}>
+              <div class="col-12 col-sm-12 col-md-6 col-lg-2 chartbox my-2 my-lg-0" style={{marginLeft: '-50px'}}>
               <Donut2/>
                 {/* <canvas class="chartDoughnut"  id="myChart1"></canvas> */}
               </div>
       
-              <div class="col-12 col-sm-12 col-md-12 col-lg-2 chartbox my-2 my-lg-0" style={{marginLeft: '-50px'}}>
+              <div class="col-12 col-sm-12 col-md-6 col-lg-2 chartbox my-2 my-lg-0" style={{marginLeft: '-50px'}}>
               <Donut3/>
                 {/* <canvas class="chartDoughnut"  id="myChart2"></canvas> */}
               </div>
       
-              <div class="col-12 col-sm-12 col-md-12 col-lg-2 chartbox my-2 my-lg-0" style={{marginLeft: '-50px'}}>
+              <div class="col-12 col-sm-12 col-md-6 col-lg-2 chartbox my-2 my-lg-0" style={{marginLeft: '-50px'}}>
               <Donut4/>
                 {/* <canvas class="chartDoughnut"  id="myChart3"></canvas> */}
               </div>
-              <div class="col-12 col-sm-12 col-md-12 col-lg-2 chartbox my-2 my-lg-0" style={{marginLeft: '-50px'}}>
+              <div class="col-12 col-sm-12 col-md-6 col-lg-2 chartbox my-2 my-lg-0" style={{marginLeft: '-50px'}}>
               <Donut5/>
                 {/* <canvas class="chartDoughnut"  id="myChart3"></canvas> */}
               </div>
